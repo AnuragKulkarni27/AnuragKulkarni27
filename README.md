@@ -1,4 +1,6 @@
 ## Hi I'm Anurag Kulkarni 👋
+---
+[![](https://visitcount.itsvg.in/api?id=AnuragKulkarni27&icon=0&color=0)](https://visitcount.itsvg.in)
 # 💫 About Me:
 🤔 I’m currently working on Backend<br><br>😄 I’m currently learning Spring and Web3. <br><br>📫 You can reach me on **anuragkulkarni18@gmail.com**<br><br>⚡ Fun fact: I don’t add comments in code cuz if its hard to write, it should be hard to read!
 
@@ -17,5 +19,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AnuragKulkarni27&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragKulkarni27&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=AnuragKulkarni27&icon=0&color=0)](https://visitcount.itsvg.in)
