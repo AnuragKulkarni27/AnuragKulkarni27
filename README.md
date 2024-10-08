@@ -1,4 +1,5 @@
-## Hi I'm Anurag Kulkarni 👋
+<h1 align="center">Hi I'm Anurag Kulkarni 👋</h1>
+<h3 align="center">Software / Computer Science Engineer</h3>
 ---
 [![](https://visitcount.itsvg.in/api?id=AnuragKulkarni27&icon=0&color=0)](https://visitcount.itsvg.in)
 # 💫 About Me:
