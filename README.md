@@ -1,7 +1,7 @@
 <h1 align="center">Hi I'm Anurag Kulkarni 👋</h1>
 <h3 align="center">Software / Computer Science Engineer</h3>
 
-![](https://visitcount.itsvg.in/api?id=AnuragKulkarni27&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=AnuragKulkarni27&icon=0&color=0)]
 # 💫 About Me:
 🤔 I’m currently working on Backend<br><br>😄 I’m currently learning Spring and Web3. <br><br>📫 You can reach me on **anuragkulkarni18@gmail.com**<br><br>⚡ Fun fact: I don’t add comments in code cuz if its hard to write, it should be hard to read!
 
