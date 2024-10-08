@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/anurag-vilas-kulkarni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AnuragKulkarni27" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/Anurag_27/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="umeshs25" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_anurag_kulkarni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="umeshsahu.25/" height="30" width="40" /></a>
-<a href="https://discord.gg/THUND3R" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="umeshs25" height="30" width="40" /></a>
+<a href="https://discord.gg/users/THUND3R" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="umeshs25" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
